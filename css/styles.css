@@ -15,7 +15,7 @@
   font-family: 'Hind', sans-serif;
  */
 
- h1, h2 {
+ h1, h2, h3 {
   font-family: 'Hind', sans-serif;
 }
 
@@ -32,7 +32,7 @@ header {
 header a {
   font-family: 'Hind', sans-serif;
   text-decoration: none;
-  color: #DB202C;
+  color: #e50914;
   font-size: 3rem;
 }
 
@@ -51,14 +51,14 @@ header a {
 }
 
 .masthead {
-  background-color: #DB202C;
+  background-color: #e50914;
   color: #fff;
-  padding: 7rem 0;
+  padding: 5rem 0;
   text-align: center;
 }
 
 .masthead h1 {
-  font-size: 3rem;
+  font-size: 2rem;
   color: black;
 }
 
