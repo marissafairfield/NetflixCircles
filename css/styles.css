@@ -107,6 +107,10 @@ header a {
   padding-right: 5rem;
 }
 
+p {
+  font-family: 'Hind', sans-serif;
+}
+
 /* */
 footer {
   padding: 2rem 0;
