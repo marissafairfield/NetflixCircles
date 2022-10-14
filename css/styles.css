@@ -15,8 +15,9 @@
   font-family: 'Hind', sans-serif;
  */
 
- h1, h2 {
+ h1, h2, h3{
   font-family: 'Hind', sans-serif;
+  margin:0rem;
 }
 
 
@@ -136,5 +137,8 @@ footer {
   padding: 2rem 0;
   background: #333;
   color: #fff;
-  text-align: center;
+  text-align: right;
+  padding-right:15rem;
+  font-family: 'Hind', sans-serif;  
 }
+
