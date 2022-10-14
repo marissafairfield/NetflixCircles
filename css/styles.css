@@ -37,7 +37,9 @@ header a {
   font-size: 3rem;
 }
 
-
+.header-logo {
+  padding-left:20%;
+}
 
 /* */
 .navbar{
@@ -45,10 +47,8 @@ header a {
   display: flex;
   vertical-align: middle;
   justify-content: left;
-  padding-left: 5rem;
   align-items:left;
   background-color:black;
-  width: 1440px;
 }
 
 .masthead {
@@ -74,7 +74,6 @@ header a {
 
 }
 
-
 /* */
 .features {
   padding: 6rem 0;
@@ -86,6 +85,7 @@ header a {
   display: flex;
   align-items: center;
   margin-bottom: 2rem;
+  justify-content: center;
 }
 
 
@@ -98,12 +98,12 @@ header a {
 }
 
 .feature-item__visual img {
-  border-radius: 450px;
+  border-radius: 25px;
   display: block;
 }
 
 .feature-item__content {
-  width: calc(100% - 450px);
+  width:30%;
   padding: 0 3rem;
 }
 
