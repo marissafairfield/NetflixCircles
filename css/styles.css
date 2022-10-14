@@ -16,7 +16,7 @@
  */
 
  h1, h2 {
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Hind', sans-serif;
 }
 
 
@@ -27,7 +27,7 @@ header {
 }
 
 header a {
-  font-family: 'Bebas Neue', cursive;
+  font-family: 'Hind', sans-serif;
   text-decoration: none;
   color: #e50914;
   font-size: 3rem;
@@ -89,6 +89,10 @@ header a {
 
 .feature-item:nth-child(even) .feature-item__content {
   padding-right: 5rem;
+}
+
+p {
+  font-family: 'Hind', sans-serif;
 }
 
 /* */
