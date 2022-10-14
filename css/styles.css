@@ -32,7 +32,7 @@ header {
 header a {
   font-family: 'Hind', sans-serif;
   text-decoration: none;
-  color: #e50914;
+  color: #DB202C;
   font-size: 3rem;
 }
 
@@ -51,7 +51,7 @@ header a {
 }
 
 .masthead {
-  background-color: #e50914;
+  background-color: #DB202C;
   color: #fff;
   padding: 5rem 0;
   text-align: center;
