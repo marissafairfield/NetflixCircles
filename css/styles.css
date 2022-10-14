@@ -33,7 +33,18 @@ header a {
   font-size: 3rem;
 }
 
+
+
 /* */
+.navbar{
+  width: 100%;
+  display: flex;
+  vertical-align: middle;
+  justify-content: center;
+  align-items:center;
+  background-color:black;
+  width: full;
+}
 
 .masthead {
   background-color: #e50914;
@@ -93,6 +104,14 @@ header a {
 
 p {
   font-family: 'Hind', sans-serif;
+}
+
+body {
+  overflow-x: hidden;
+  font-family: var(--light-font);
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  box-sizing: border-box;
 }
 
 /* */
