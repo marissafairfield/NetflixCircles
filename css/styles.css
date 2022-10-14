@@ -15,14 +15,12 @@
   font-family: 'Hind', sans-serif;
  */
 
- h1, h2 {
+ h1, h2, h3{
   font-family: 'Hind', sans-serif;
 }
 
 
 /* */
-
-
 
 header {
   background: #000;
@@ -36,17 +34,14 @@ header a {
   font-size: 3rem;
 }
 
-
-
 /* */
 .navbar{
   width: 100%;
   display: flex;
   vertical-align: middle;
-  justify-content: center;
-  align-items:center;
+  justify-content: left;
+  align-items:left;
   background-color:black;
-  width: full;
 }
 
 .masthead {
