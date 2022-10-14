@@ -43,10 +43,11 @@ header a {
   width: 100%;
   display: flex;
   vertical-align: middle;
-  justify-content: center;
-  align-items:center;
+  justify-content: left;
+  padding-left: 5rem;
+  align-items:left;
   background-color:black;
-  width: full;
+  width: 1440px;
 }
 
 .masthead {
