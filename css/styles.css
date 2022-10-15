@@ -149,10 +149,26 @@ body {
 
 /* */
 footer {
-  padding: 2rem 0;
-  background: #333;
+  padding: 0px 155px;
+  background: black;
   color: #fff;
   text-align: center;
+}
+
+.footerstyle { 
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5rem;
+}
+
+ul { 
+  list-style: none;
+  display: flex;
+  margin-block-start: 1rem;
+  margin-block-end: 1rem;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
 }
 
 .feature-img {
