@@ -115,6 +115,14 @@ header a {
 .feature-item__visual img {
   border-radius: 25px;
   display: block;
+  transition: border-radius 300ms ease, transform 300ms ease, background-color 300ms ease;
+}
+
+.feature-item__visual img:hover {
+  z-index: 1;
+	border-radius: 25px;
+	transform: scale(1.1);
+	background-color: #211522;
 }
 
 .feature-item__content {
