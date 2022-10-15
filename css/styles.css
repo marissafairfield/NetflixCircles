@@ -171,6 +171,10 @@ ul {
   margin-inline-end: 0px;
 }
 
+li {
+  padding: 3rem;
+}
+
 
 .feature-img {
   width: 450px;
