@@ -51,23 +51,28 @@ header a {
 .masthead {
   background-color: #DB202C;
   color: #fff;
+  background-color: #000000;
+  color: #DB202C;
   padding: 8rem 0;
   text-align: center;
 }
 
-.masthead h1 {
-  font-size: 4rem;
-  color: black;
-}
 
 .masthead h2 {
   font-size: 8rem;
   text-shadow: 2px 5px #000000;
+  font-size: 9rem;
+  text-shadow: 2px 2px 6px  #ffffff;
+  text-transform: uppercase;
+
 }
 
 .masthead h3 {
   font-size: 3rem;
   color: black;
+  color: #DB202C;
+  padding-top: 1rem;
+  padding-bottom: 8rem;
 
 }
 
